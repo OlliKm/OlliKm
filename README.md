@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi There 👋
 
-<!--
-**OlliKm/OlliKm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Olli**, a level 2 Support Engineer in training.
 
-Here are some ideas to get you started:
+Based in 🌍: The United Kingdom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Heres some of my learning projects 🐍: [python basics](https://github.com/OlliKm/Tech515_python)
+
+Heres a list of the projects I want to make at somepoint to automate my life 💻: [Dream Projects](https://github.com/OlliKm/Things-I-Want-To-Make)
+
+## Fun Facts About Me 🐙:
+* I write left handed
+* I like to read webcomics & webnovels
+* Octopus are my favourite sea creatures
+
+
+
+
+
+
